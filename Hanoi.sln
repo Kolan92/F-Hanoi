@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Hanoi", "Hanoi\Hanoi.fsproj", "{3680C600-1133-4F85-B956-D8B7120AF382}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HanoiProgram", "HanoiProgram\HanoiProgram.fsproj", "{B7B2A105-590B-422D-9415-EF14D1CE5A5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3680C600-1133-4F85-B956-D8B7120AF382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3680C600-1133-4F85-B956-D8B7120AF382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3680C600-1133-4F85-B956-D8B7120AF382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3680C600-1133-4F85-B956-D8B7120AF382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B2A105-590B-422D-9415-EF14D1CE5A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B2A105-590B-422D-9415-EF14D1CE5A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B2A105-590B-422D-9415-EF14D1CE5A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B2A105-590B-422D-9415-EF14D1CE5A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
