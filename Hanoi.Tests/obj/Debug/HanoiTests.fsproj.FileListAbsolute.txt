@@ -1,4 +1,0 @@
-C:\Users\Pawel\Source\Repos\MyClassLibGitTest\Hanoi\Hanoi.Tests\bin\Debug\Hanoi.Tests.XML
-C:\Users\Pawel\Source\Repos\MyClassLibGitTest\Hanoi\Hanoi.Tests\obj\Debug\HanoiTests.fsprojResolveAssemblyReference.cache
-C:\Users\Pawel\Source\Repos\MyClassLibGitTest\Hanoi\Hanoi.Tests\obj\Debug\Hanoi.Tests.dll
-C:\Users\Pawel\Source\Repos\MyClassLibGitTest\Hanoi\Hanoi.Tests\obj\Debug\Hanoi.Tests.pdb
